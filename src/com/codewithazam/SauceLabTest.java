@@ -9,8 +9,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class SauceLabTest {
-    public static final String USERNAME = "oauth-ibragimov.azamkhuja.2020-cca33";
-    public static final String ACCESS_KEY = "82f134cf-fdeb-46c4-9c03-4f021e101f85";
+    public static final String USERNAME = "xxxxxxxx";
+    public static final String ACCESS_KEY = "yyyyyyyy";
     public static final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 
     public static void main(String[] args) throws MalformedURLException {
